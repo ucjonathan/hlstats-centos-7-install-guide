@@ -112,7 +112,7 @@ Let's install the PERL modules that we're going to need
 yum install perl-CPAN
 perl -MCPAN -e shell
 ```
-Cchoose all the defaults.
+Choose all the defaults.
 Once screen prompt appears run all of these commands.
 ```bash
 install Bundle::DBI
